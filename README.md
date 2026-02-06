@@ -1,5 +1,6 @@
 # Adv
-Short, logical game. At max it's 30 minutes gameplay. I just tested some things, this isn't something special.
+Short, logical game. At max it's 30 minutes gameplay.
+This is one of my first games, I like how it looks and I enjoyed time finding, what is happening with my lightning system.
 
 ## Controls
 crouch - control
@@ -12,29 +13,29 @@ You are faster when crouching in air.
 
 Consistent jumping is making you go faster.
 
-You can hold space to jump.
+You can hold space to jump constantly.
 
 ## Answers
 <details>
   <summary>Console Hint</summary>
 
   ```
-  134
+  if all are blank hit first then third and then fourth.
   ```
 </details>
 <details>
   <summary>Movement Hint</summary>
 
   ```
-  You can get speed from jumping in place,
-  when you put all key up, you lost your speed.
+  You can get speed from jumping and moving around.
+  When you put all keyboard keys up, you stop moving.
   ```
 </details>
 <details>
   <summary>Doors</summary>
 
   ```
-  Use "S" Key
+  Go behind them backwards.
   ```
 </details>
 <details>
