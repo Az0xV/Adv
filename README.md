@@ -57,3 +57,6 @@ You can hold space to jump constantly.
 
 # Download Link
 https://www.dropbox.com/scl/fi/0g7bh9u5n6wyfnq8o8px8/Adv.zip?rlkey=tmd7aypgeahflv85vjw3vxh6y&st=njk5wh9c&dl=1
+
+How to download in 3 steps:
+https://github.com/Az0xV/Az0xV/blob/main/GAMEDOWNLOAD.md
